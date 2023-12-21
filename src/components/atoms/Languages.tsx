@@ -29,7 +29,7 @@ function Languages({
   }, [url]);
   useEffect(() => {
     if (url) fetchData();
-  }, []);
+  }, [url]);
   return (
     <div className="flex h-full flex-col justify-between">
       <div className="grid grid-cols-3 gap-1 text-xs font-bold">
