@@ -1,0 +1,20 @@
+[
+  [
+    { "title": "Next.js", "value": 80 },
+    { "title": "React.js", "value": 80 },
+    { "title": "JavaScript", "value": 90 },
+    { "title": "Typescript", "value": 60 },
+    { "title": "HTML/CSS", "value": 70 },
+    { "title": "SQL", "value": 50 }
+  ],
+  [
+    { "title": "Goal-Oriented", "value": 80 },
+    { "title": "Collaboration", "value": 60 },
+    { "title": "Positivity", "value": 90 },
+    { "title": "Adaptability", "value": 80 },
+    { "title": "Problem Solving", "value": 70 },
+    { "title": "Organization", "value": 50 },
+    { "title": "Empathy", "value": 80 },
+    { "title": "Creativity", "value": 50 }
+  ]
+]
